@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2714",
+  "title": "ELECTION CODE-VACANCY",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Election Code. In provisions concerning ballot forfeiture, provides that any civil penalty paid after the State Board of Elections transmits the list of all candidates whose political committees have not paid an assessed civil penalty shall not result in the election authority placing the candidate who paid the civil penalty on the ballot. Provides that, if a candidate forfeits his or her ballot under the provision, then that candidate may not be appointed to fulfill the resulting vacancy. In provisions concerning the making of nominations, provides that any vacancy in nomination occurring after certification shall be filled at least 45 days before the election for which there is a vacancy (rather than within 8 days after the event creating the vacancy). In provisions concerning the delivery of ballots, provides that, if a consolidated primary election is required, vote by mail ballots for the consolidated election shall be mailed no later than 5 business days after the completion of the canvass of the consolidated primary election. Makes other changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Rachel Ventura",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rachel Ventura",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rachel Ventura\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2714.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205606&DocName=10400SB2714&DocNum=2714&DocTypeID=SB&LegID=164314&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2714&GAID=18&DocTypeID=SB&LegId=164314&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:58Z"
+  }
+}

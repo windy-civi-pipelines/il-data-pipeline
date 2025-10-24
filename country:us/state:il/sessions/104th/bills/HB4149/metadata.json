@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4149",
+  "title": "GAMING-USE OF CREDIT CARDS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Lottery Law. Prohibits a person from selling a lottery ticket or share on a credit basis. Amends the Illinois Gambling Act. Provides that an automated teller machine (ATM) located within a casino shall not be able to perform cash advances on credit cards. Prohibits a person from using a credit card to participate in a gambling game."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Curtis J. Tarver, II",
+      "date": "2025-10-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Curtis J. Tarver, II",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Curtis J. Tarver, II\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4149.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205524&DocName=10400HB4149&DocNum=4149&DocTypeID=HB&LegID=164236&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4149&GAID=18&DocTypeID=HB&LegId=164236&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:54Z"
+  }
+}

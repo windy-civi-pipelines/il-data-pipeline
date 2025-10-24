@@ -1,0 +1,154 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HR487",
+  "title": "GENETIC COUNSELOR DAY",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Declares November 13, 2025 as Genetic Counselor Appreciation Day in the State of Illinois. Recognizes that the sequencing of the human genome is one of the most significant scientific accomplishments of the past hundred years and expresses support for genetic counselors, who are using this research to improve the lives of many throughout the State."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Nabeela Syed",
+      "date": "2025-10-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "Assigned to Public Health Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Daniel Didech",
+      "date": "2025-10-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Will Guzzardi",
+      "date": "2025-10-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Ryan Spain",
+      "date": "2025-10-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nabeela Syed",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nabeela Syed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel Didech",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel Didech\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Will Guzzardi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Will Guzzardi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Spain",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ryan Spain\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HR/PDF/10400HR0487.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205502&DocName=10400HR0487&DocNum=487&DocTypeID=HR&LegID=164214&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=487&GAID=18&DocTypeID=HR&LegId=164214&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:59Z"
+  }
+}

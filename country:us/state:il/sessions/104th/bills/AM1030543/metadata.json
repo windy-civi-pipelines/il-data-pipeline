@@ -1,0 +1,122 @@
+{
+  "legislative_session": "104th",
+  "identifier": "AM1030543",
+  "title": "APPOINT-PAUL V. CELLINI",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "appointment"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Nominates Paul V. Cellini as an Arbitrator of the Workers' Compensation Commission."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "** Appointment Message Carried Over from Previous General Assembly **",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Received by the Senate Sen. Laura M. Murphy;  on 10/11/2024",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Assigned to Executive Appointments;  on 10/11/2024 - and on 01/07/2025, Due to Sine Die of the 103rd General Assembly",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Recommends Do Consent Executive Appointments;  006-000-000",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar Order of Executive Appointments April 8, 2025",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Do Consent Passed 055-000-000",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Appointment Confirmed",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Laura M. Murphy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura M. Murphy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1030543&GAID=18&DocTypeID=AM&LegId=158048&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:52Z"
+  }
+}

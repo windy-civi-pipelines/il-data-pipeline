@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4111",
+  "title": "HIGHER ED-STUDENT WITHDRAWAL",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Public Higher Education Act. Requires each public institution of higher education in the State to adopt a policy that authorizes a student to withdraw from the public institution of higher education under extenuating circumstances, which shall include a provision to refund a student for tuition and fees and room and board costs paid by the student or the student's family, to be prorated, for the semester during which the student withdraws. Effective January 1, 2027."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Harry Benton",
+      "date": "2025-09-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harry Benton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Harry Benton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4111.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205381&DocName=10400HB4111&DocNum=4111&DocTypeID=HB&LegID=164094&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4111&GAID=18&DocTypeID=HB&LegId=164094&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:50Z"
+  }
+}

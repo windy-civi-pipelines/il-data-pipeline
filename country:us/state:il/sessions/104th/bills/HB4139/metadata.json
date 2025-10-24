@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4139",
+  "title": "SCH CD-LATINX STUDIES",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the School Code. Provides that, beginning with the 2026-2027 school year, every public elementary school and high school shall include the study of Latinx communities in the curriculum across all content areas, including the contributions made by individual Latinx communities in government and the arts, humanities, mathematics, and sciences, as well as the contributions of Latinx to the economic, cultural, social, and political development of the United States. Allows the State Superintendent of Education to prepare and make available to all school boards instructional materials that may be used as guidelines for development of the unit of instruction. Requires a regional superintendent of schools to monitor a school district's compliance with the curricular requirements. Provides that each school board shall itself determine the minimum amount of instructional time that qualifies as a unit of instruction satisfying these requirements. Allows a school to meet the requirements through an online program or course."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Aar\u00f3n M. Ort\u00edz",
+      "date": "2025-09-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Aar\u00f3n M. Ort\u00edz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Aar\\u00f3n M. Ort\\u00edz\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4139.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205477&DocName=10400HB4139&DocNum=4139&DocTypeID=HB&LegID=164189&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4139&GAID=18&DocTypeID=HB&LegId=164189&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:58Z"
+  }
+}

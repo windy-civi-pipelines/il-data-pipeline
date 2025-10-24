@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2709",
+  "title": "FIRE MARSHAL-TRACK DEATHS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the State Fire Marshal Act. Provides that all fire departments and units of local government that provide fire protection services in the State shall report the death of any firefighter employed by the fire department or unit of local government to the Office of the State Fire Marshal. Specifies the information that shall be reported to the Office. Provides that the Office shall publish an annual report concerning the information reported and shall make the report available to the public. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Cristina Castro",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cristina Castro",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cristina Castro\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2709.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205533&DocName=10400SB2709&DocNum=2709&DocTypeID=SB&LegID=164245&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2709&GAID=18&DocTypeID=SB&LegId=164245&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:20:02Z"
+  }
+}

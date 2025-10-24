@@ -1,0 +1,194 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB1565",
+  "title": "GAMBLING DATA COLLECTION ACT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Anti-Click Gambling Data Analytics Collection Act. Provides that no entity that operates a remote gambling platform or a subsidiary of the entity shall collect data from a participant with the intent to predict how the participant will gamble in a particular gambling or betting scenario. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Jaime M. Andrade, Jr.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "Assigned to Gaming Committee",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "Rule 19(a) / Re-referred to Rules Committee",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kevin John Olickal",
+      "date": "2025-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Theresa Mah",
+      "date": "2025-09-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Will Guzzardi",
+      "date": "2025-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Amy L. Grant",
+      "date": "2025-09-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jaime M. Andrade, Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jaime M. Andrade, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin John Olickal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin John Olickal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Theresa Mah",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Theresa Mah\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Will Guzzardi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Will Guzzardi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy L. Grant",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Amy L. Grant\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB1565.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=197448&DocName=10400HB1565&DocNum=1565&DocTypeID=HB&LegID=157658&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1565&GAID=18&DocTypeID=HB&LegId=157658&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:53Z"
+  }
+}

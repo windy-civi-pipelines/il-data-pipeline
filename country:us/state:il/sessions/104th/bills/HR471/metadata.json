@@ -1,0 +1,172 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HR471",
+  "title": "SURGICAL TECHNOLOGY WEEK",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Declares the week of September 21 through September 27, 2025 as Surgical Technology Week in the State of Illinois. Honors these dedicated healthcare professionals for their hard work and expertise in patient safety in the operating room that often goes unnoticed. Recognizes their educators for providing them with specialized training in surgical technology."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Michelle Mussman",
+      "date": "2025-09-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Maura Hirschauer",
+      "date": "2025-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Regan Deering",
+      "date": "2025-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Patrick Sheehan",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Bob Morgan",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Assigned to Public Health Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michelle Mussman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michelle Mussman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maura Hirschauer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Maura Hirschauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regan Deering",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Sheehan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Patrick Sheehan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Morgan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bob Morgan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HR/PDF/10400HR0471.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205443&DocName=10400HR0471&DocNum=471&DocTypeID=HR&LegID=164156&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=471&GAID=18&DocTypeID=HR&LegId=164156&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:50Z"
+  }
+}

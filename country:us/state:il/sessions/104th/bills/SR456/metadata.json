@@ -1,0 +1,88 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SR456",
+  "title": "PRES. TRUMP-ENGLISH LEARNERS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Urges President Donald Trump to stop the actions of the administration that are impacting or eliminating educational funding, educational supports, and educational services provided to English learner students, limited English proficient parents, and the educators that serve these students. Urges federal lawmakers to instead prioritize the maintenance and improvement of educational services for English learner students, maintain and provide for increases to ESSA Title III funding aligned with inflationary measures and other appropriate funding to support educational services for English learner students and the educators that serve them, maintain and provide for language access services for parents with limited English proficiency, and ensure the educational rights of all students guaranteed under the U.S. Constitution."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cristina Castro",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cristina Castro\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SR/PDF/10400SR0456.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205534&DocName=10400SR0456&DocNum=456&DocTypeID=SR&LegID=164246&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=456&GAID=18&DocTypeID=SR&LegId=164246&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:57Z"
+  }
+}

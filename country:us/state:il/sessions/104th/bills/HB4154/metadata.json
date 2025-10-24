@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4154",
+  "title": "PHARMACIST APPLICATION/EXAM",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Pharmacy Practice Act. Provides that the Department of Financial and Professional Regulation shall authorize the examination of applicants as pharmacists at such times and places as it may determine (rather than not less than 3 times per year). Provides that the Department and the Board of Pharmacy shall regularly monitor the North American Pharmacist Licensure Examination or its successor to ensure that the examination of applicants is of a character to give a fair test of the qualifications of the applicant to practice pharmacy. Provides that applicants for examination as pharmacists for the calendar years 2025, 2026, and 2027 shall be required to pass only the North American Pharmacist Licensure Examination. Provides that the results from the Multistate Pharmacy Jurisprudence Examination for such applicants shall be disregarded and shall not prohibit an applicant who has successfully passed the North American Pharmacist Licensure Examination from engaging in the practice of pharmacy. Provides that applicants for examination as pharmacists shall be required to pay, either to the Department or the National Association of Boards of Pharmacy (rather than the designated testing service), a fee covering the cost of providing the examination. Provides that the Department shall notify applicants taking the examination of their results no later than 2 weeks after (rather than within 7 weeks of) the examination date. Makes conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Natalie A. Manley",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Natalie A. Manley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Natalie A. Manley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4154.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205542&DocName=10400HB4154&DocNum=4154&DocTypeID=HB&LegID=164254&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4154&GAID=18&DocTypeID=HB&LegId=164254&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:57Z"
+  }
+}

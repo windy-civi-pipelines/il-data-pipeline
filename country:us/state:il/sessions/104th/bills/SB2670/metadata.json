@@ -1,0 +1,172 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2670",
+  "title": "9-1-1 STATEWIDE SURCHARGES",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Emergency Telephone System Act. Provides that, beginning January 1, 2026, the statewide surcharge shall be $2.50 per connection."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. David Koehler",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:01Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:01Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:01Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Paul Faraci",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:01Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Laura M. Murphy",
+      "date": "2025-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:01Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Mark L. Walker",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:01Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Kimberly A. Lightford",
+      "date": "2025-10-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David Koehler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David Koehler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul Faraci",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Paul Faraci\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura M. Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura M. Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark L. Walker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mark L. Walker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimberly A. Lightford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kimberly A. Lightford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2670.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205066&DocName=10400SB2670&DocNum=2670&DocTypeID=SB&LegID=163889&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2670&GAID=18&DocTypeID=SB&LegId=163889&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:20:01Z"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4167",
+  "title": "TWP EMPLOYMENT OF MUNI OFFICER",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Public Officer Prohibited Activities Act. Provides that beginning on the effective date of the amendatory Act, an executive official of a municipality may not hold any office or employment with a township if there is a contractual relationship or pecuniary interest between the municipality and the township during the executive official's term of office. Provides that \"executive official\" includes, but is not limited to (1) the mayor of a city; (2) a member of the board of alderpersons, or similar body, of a city; (3) the president of a village or unincorporated town; (4) a member of the board of trustees, or similar body, of a village or unincorporated town; or (5) a commissioner of a municipality under the commission form of municipal government."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Kevin Schmidt",
+      "date": "2025-10-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kevin Schmidt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin Schmidt\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4167.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205723&DocName=10400HB4167&DocNum=4167&DocTypeID=HB&LegID=164426&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4167&GAID=18&DocTypeID=HB&LegId=164426&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:58Z"
+  }
+}

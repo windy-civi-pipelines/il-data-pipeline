@@ -1,0 +1,78 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4172",
+  "title": "UTILITY-PROJECT COST RECOVERY",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Public Utilities Act. In provisions concerning the recovery of costs associated with the provision of delivery and other services, provides that electric utilities shall not require or collect any security deposit, cash deposit, letter of credit, advance payment, or any other equivalent financial assurance from a large demand project applicant who submits a service or interconnection request if that applicant (1) submitted an application for interconnection or service under existing Commission-approved tariffs and (2) is in good standing with the interconnection and construction requirements applicable to the applicant's service request. Provides that electric utilities shall not delay investment to support, provide service, or interconnect large demand project applicants as a result of the changes made by the amendatory provisions. Provides that the amendatory provisions shall not be construed to limit the following: (1) a utility's enforcement of Commission-approved technical standards for interconnection, (2) a utility's enforcement of reasonable milestones for construction progress, and (3) a utility's ability to recover all costs prudently and reasonably incurred. Provides that the amendatory provisions are inoperative September 1, 2026. Defines \"large demand project applicant\". Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Dave Vella",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dave Vella",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Vella\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4172.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205744&DocName=10400HB4172&DocNum=4172&DocTypeID=HB&LegID=164447&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4172&GAID=18&DocTypeID=HB&LegId=164447&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:50Z"
+  }
+}

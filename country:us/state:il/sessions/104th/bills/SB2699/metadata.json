@@ -1,0 +1,118 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2699",
+  "title": "INS-RENEWAL PREMIUM INCREASE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Insurance Code. Provides that no company shall impose renewal premium increases of more than 10% for policies of fire and extended coverage insurance to which specified provisions apply. In a provision prohibiting a company from making changes in deductibles or coverage for any policy forms applicable to certain lines of business unless the company provides a specified notice, adds delivery by electronic means as a method for providing that notice. Provides that no company may impose renewal premium increases of more than 10% for policies of automobile insurance to which specified provisions apply unless the company mails to the named insured written notice or delivers notice by electronic means of the change in premium or change in deductible or coverage at least 30 days prior to the renewal. Effective January 1, 2028."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Michael E. Hastings",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Meg Loughran Cappel",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael E. Hastings",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Michael E. Hastings\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Meg Loughran Cappel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Meg Loughran Cappel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2699.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205459&DocName=10400SB2699&DocNum=2699&DocTypeID=SB&LegID=164171&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2699&GAID=18&DocTypeID=SB&LegId=164171&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:54Z"
+  }
+}

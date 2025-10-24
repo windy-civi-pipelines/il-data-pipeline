@@ -1,0 +1,78 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4168",
+  "title": "MUNI CD-TIF-LATE REPORTS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Municipal Code. In provisions concerning the reports a municipality is required to provide to the Comptroller under the Tax Increment Allocation Redevelopment Act, provides that, beginning on the effective date of the amendatory Act, if a municipality fails to file the Tax Increment Financing Report within the time required, then the Comptroller may order the municipality to cease all distributions from its Special Tax Allocation Fund for redevelopment project costs other than debt service on bonds until the municipality files the Tax Increment Financing Report. Requires the municipality to comply with the Comptroller's orders."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Kevin Schmidt",
+      "date": "2025-10-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kevin Schmidt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin Schmidt\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4168.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205724&DocName=10400HB4168&DocNum=4168&DocTypeID=HB&LegID=164427&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4168&GAID=18&DocTypeID=HB&LegId=164427&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:59Z"
+  }
+}

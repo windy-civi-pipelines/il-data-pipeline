@@ -1,0 +1,154 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4163",
+  "title": "OFF-GRID ELECTRICITY PROVIDER",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Public Utilities Act. Defines \"off-grid electricity provider\" as an entity, person, private company, electric cooperative, municipal agency, or other organization that (1) is engaged in any combination of generating, transmitting, distributing, or selling electricity at retail to consumers, (2) is not connected to any existing electric transmission or distribution system within this State for either primary or backup supply, (3) operates independently of existing utilities and other regulated entities, (4) is not located within any federal, State, or municipal roadway or right-of-way, and (5) does not cross any federal, State, or municipal roadway or right-of-way or State boundaries. Provides that an off-grid electricity provider whose operation date is on or after the effective date of the amendatory Act shall be exempt from the requirements of the Utilities Chapter of the Illinois Compiled Statutes. Provides that an off-grid electricity provider shall remain subject to all other applicable laws and regulations, including municipal and State highway safety regulations, unless specifically excluded from those laws or regulations by a separate Act. Provides that an off-grid electricity provider shall cease being an off-grid electricity provider and immediately become subject to the requirements of the Utilities Chapter of the Illinois Compiled Statutes if the off-grid electricity provider does any of the following actions: (1) the provider elects to connect to any portion of an existing electric transmission or distribution system within this State for either primary or backup supply; (2) the provider locates within or crosses any federal, State, or municipal roadway or right-of-way; or (3) the provider crosses State boundaries. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Jeff Keicher",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Dave Vella",
+      "date": "2025-10-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Natalie A. Manley",
+      "date": "2025-10-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Rick Ryan",
+      "date": "2025-10-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeff Keicher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jeff Keicher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave Vella",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Vella\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Natalie A. Manley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Natalie A. Manley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Ryan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rick Ryan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4163.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205694&DocName=10400HB4163&DocNum=4163&DocTypeID=HB&LegID=164400&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4163&GAID=18&DocTypeID=HB&LegId=164400&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:59Z"
+  }
+}

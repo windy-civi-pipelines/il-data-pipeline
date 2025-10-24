@@ -1,0 +1,118 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2698",
+  "title": "INSURANCE RATE FAIRNESS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Insurance Code. Creates the Rates Article. Provides that the Article may be cited as the Insurance Rate Fairness and Consumer Protection Law. Sets forth provisions requiring insurers to receive prior approval for rate changes from the Department of Insurance on and after January 1, 2028. Provides that no insurer shall increase premiums by more than 10% per year for any policyholder without exceptional justification. Requires the Department to conduct market conduct examinations of insurers at least once every 3 years to ensure compliance with the Article. Establishes penalty and enforcement provisions for violations of the Article. Provides that the Department may adopt rules necessary to implement and enforce the requirements of the Article. Effective January 1, 2028."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Michael E. Hastings",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Meg Loughran Cappel",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael E. Hastings",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Michael E. Hastings\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Meg Loughran Cappel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Meg Loughran Cappel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2698.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205458&DocName=10400SB2698&DocNum=2698&DocTypeID=SB&LegID=164170&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2698&GAID=18&DocTypeID=SB&LegId=164170&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:54Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4112",
+  "title": "ID/DD COMMUNITY CARE ADMIN",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the ID/DD Community Care Act. Changes the definition of administrator to a person who is charged with the general administration and supervision of a facility and who is at least 21 years of age and either is licensed under the Nursing Home Administrators Licensing and Disciplinary Act; is a qualified intellectual disabilities professional; or has completed at least 4 semesters of study at an institution of higher education and has at least 2 years of management experience or at least 2 years of experience in a position of progressive responsibility in health care, housing with services, or adult day care; in providing similar services to individuals with intellectual or developmental disabilities; or in behavioral health (rather than a person who is charged with the general administration and supervision of a facility and licensed, if required, under the Nursing Home Administrators Licensing and Disciplinary Act). Provides that, as a condition of licensure under the Act, the administrator of a facility must participate in at least 20 hours of training every 2 years to assist the administrator in better meeting the needs of the residents of the facility and managing the operation of the facility. Makes conforming changes. Effective July 1, 2027."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Anna Moeller",
+      "date": "2025-09-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Anna Moeller",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Anna Moeller\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4112.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205382&DocName=10400HB4112&DocNum=4112&DocTypeID=HB&LegID=164095&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4112&GAID=18&DocTypeID=HB&LegId=164095&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:20:00Z"
+  }
+}

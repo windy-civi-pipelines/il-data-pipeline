@@ -1,0 +1,72 @@
+{
+  "legislative_session": "104th",
+  "identifier": "AM1040223",
+  "title": "APPOINT-JENNIFER HOWARD",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "appointment"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Nominates Jennifer Howard as a Member of the Joliet Regional Port District Board."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received by the Senate Sen. Laura M. Murphy",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:55Z"
+      }
+    },
+    {
+      "description": "Assigned to Executive Appointments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Laura M. Murphy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura M. Murphy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1040223&GAID=18&DocTypeID=AM&LegId=164260&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:55Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2707",
+  "title": "CRIM PRO&CORR-MITIGATE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Code of Criminal Procedure of 1963. Provides that no condition or combination of conditions of pretrial release can materially mitigate (rather than mitigate) (i) the real and present threat to the safety of any person or persons or the community, based on the specific articulable facts of the case, for offenses listed in the denial of pretrial release provisions of the Code, or (ii) the defendant's willful flight for specified offenses listed in the denial of pretrial release provisions. Amends the Unified Code of Corrections. Deletes a provision providing that home detention for purposes of credit for time served in custody includes restrictions on liberty such as curfews restricting movement for 12 hours or more per day and electronic monitoring that restricts travel or movement. Deletes a provision providing that electronic monitoring is not required for home detention to be considered custodial for purposes of sentencing credit."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Sally J. Turner",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sally J. Turner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sally J. Turner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2707.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205529&DocName=10400SB2707&DocNum=2707&DocTypeID=SB&LegID=164241&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2707&GAID=18&DocTypeID=SB&LegId=164241&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:20:00Z"
+  }
+}

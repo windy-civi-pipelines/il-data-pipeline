@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4152",
+  "title": "STARS ACT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Stadium Transparency and Responsible Spending Act. Prohibits a State or local authority from entering into, amending, or renewing any agreement granting subsidies, tax abatements, or financial incentives for the construction, renovation, or operation of a professional sports stadium unless the full text of the agreement is posted online for free public viewing at least 30 days before the agreement is entered into, amended, or renewed. Requires the Commission on Government Forecasting and Accountability to prepare a report containing a neutral cost-benefit analysis of the agreement and requires the franchise that is a party to the agreement to pay all costs associated with producing the report. Requires the Commission on Government Forecasting and Accountability to post the report online for free public viewing at least 30 days before the agreement is entered into, amended, or renewed. Requires at least 2 public hearings in the affected community. Requires the franchise to reimburse public schools, public libraries, or public fire, police, or emergency services for any net loss of funding that results from the reduction of property tax revenue under the stadium agreement. Requires any franchise that receives subsidies under a stadium agreement to annually post reports online regarding the number of jobs created, tax revenue generated, and community benefits delivered as a result of the agreement. Requires the subsidies to be repaid with interest if the franchise relocates or fails to meet certain commitments. Requires the Attorney General to enforce the Act. Declares the purpose of the Act. Defines terms. Amends the Public Building Commission Act, the Illinois Municipal Code, the Illinois Sports Facilities Authority Act, and the Downstate Illinois Sports Facilities Authority Act. Provides that, to the extent that any provision of the Acts conflicts with the Stadium Transparency and Responsible Spending Act, the provisions of the Stadium Transparency and Responsible Spending Act shall control."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Kam Buckner",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kam Buckner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kam Buckner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4152.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205538&DocName=10400HB4152&DocNum=4152&DocTypeID=HB&LegID=164250&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4152&GAID=18&DocTypeID=HB&LegId=164250&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:20:02Z"
+  }
+}

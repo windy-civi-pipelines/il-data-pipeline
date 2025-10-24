@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4153",
+  "title": "PEN CD-FEDERAL SERVICE CREDIT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the State Employee Article of the Illinois Pension Code. Provides that a contributing employee may establish additional service credit for periods of full-time employment with the federal government or a unit of state or local government located outside Illinois for which he or she does not qualify for credit under any other provision of the State Employee Article of the Code, provided that (i) the amount of service credit established by a person under the provision shall not exceed 9 years, (ii) the amount of service credit established by a person under the provision for federal employment, when added to the amount of all military service credit granted to the person under the State Employee Article, shall not exceed 14 years, and (iii) any credit received for the federal or out-of-state employment in any federal or other public employee pension fund or retirement system has been terminated or relinquished. Prohibits credit from being established under the provision for any period of military service or for any period for which credit has been or may be established under the alternative formula provisions of the State Employee Article of the Code. Requires the applicant for the additional service credit to submit a written application to the State Employees' Retirement System of Illinois within 6 months after the effective date of the amendatory Act, including documentation of the federal or out-of-state employment satisfactory to the System's Board, and pay to the System (1) employee contributions at the rates provided in the Article based upon the person's salary on the last day as a participating employee prior to the federal or out-of-state employment, or on the first day as a participating employee after that employment, whichever is greater, plus (2) an amount determined by the Board to be equal to the employer's normal cost of the benefits accrued for that employment, plus (3) regular interest on items (1) and (2) from the date of conclusion of the employment to the date of payment. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Harry Benton",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harry Benton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Harry Benton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4153.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205541&DocName=10400HB4153&DocNum=4153&DocTypeID=HB&LegID=164253&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4153&GAID=18&DocTypeID=HB&LegId=164253&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:57Z"
+  }
+}

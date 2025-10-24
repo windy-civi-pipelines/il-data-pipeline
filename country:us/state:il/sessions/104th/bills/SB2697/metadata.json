@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2697",
+  "title": "EMERALD CITY TASK FORCE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Emerald City Task Force Act. Establishes the Emerald City Task Force in the Department of Natural Resources. Provides that the Task Force may consult with the Environmental Protection Agency. Lists the responsibilities of the Task Force. Requires the Task Force to submit an annual report to the Governor and the General Assembly. Lists the membership of the Task Force. Provides that fines collected under certain provisions of the Insect Pest and Plant Disease Act shall be paid into the Emerald City Fund, a special fund that is created in the State treasury, and, subject to appropriation, may be expended by and for the Emerald City Task Force in the fulfillment of its purposes, the carrying out of its responsibilities, and any other requirements as determined by the Task Force. Allows the Fund to accept donations from individuals, corporations, or other entities, including by means of corporate sponsorship related to the Emerald City Task Force. Provides that Task Force members shall serve without compensation but shall be reimbursed for their reasonable and necessary expenses from funds appropriated for that purpose. Grants the Department of Natural Resources rulemaking authority. Declares the purpose of the Act and purposes of the Task Force. Defines terms. Makes conforming changes to the State Finance Act and the Insect Pest and Plant Disease Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Adriane Johnson",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Adriane Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2697.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205456&DocName=10400SB2697&DocNum=2697&DocTypeID=SB&LegID=164168&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2697&GAID=18&DocTypeID=SB&LegId=164168&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:56Z"
+  }
+}

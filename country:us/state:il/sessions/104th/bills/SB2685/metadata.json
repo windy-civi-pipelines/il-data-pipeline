@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2685",
+  "title": "UNMASKED FEDERAL ENFORCEMENT",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Unmasked Federal Enforcement Transparency Act. Provides that an officer, agent, employee, or contractor of the U.S. Immigration and Customs Enforcement, Enforcement and Removal Operations, Homeland Security Investigations, or any other component of the U.S. Department of Homeland Security engaged in immigration-related arrests, detentions, or field investigations in Illinois shall not wear a face covering or otherwise intentionally conceal the officer's or agent's face or identity while conducting or participating in an enforcement action in the State. Provides that a temporary face covering may be used only when the supervising officer documents, in writing, an immediate and specific safety threat that cannot be mitigated by other means. Provides that during an enforcement action, a covered federal officer or agent shall display: (1) a clearly visible name or unique identification number; and (2) a clearly visible insignia or marking identifying the officer's federal agency. Provides that use of unmarked uniforms or equipment that obscures agency affiliation is prohibited during public-facing enforcement activity. Provides that no State agency, unit of local government, or law enforcement officer shall materially assist, coordinate with, or provide resources to any enforcement action that violates these provisions. Provides that the Attorney General may receive and investigate complaints of violations of the Act, may issue subpoenas, and may bring a civil action for declaratory or injunctive relief in any court of competent jurisdiction. Provides that no employee or contractor of a State or local governmental entity shall be retaliated against for reporting a violation of the Act to the Attorney General. Preempts home rule. Defines terms. Contains a severability provision. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Willie Preston",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Willie Preston",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Willie Preston\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2685.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205315&DocName=10400SB2685&DocNum=2685&DocTypeID=SB&LegID=164028&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2685&GAID=18&DocTypeID=SB&LegId=164028&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:54Z"
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4097",
+  "title": "HIGHER ED-NONCITIZEN BENEFITS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Public Higher Education Act, the Board of Higher Education Act, and the Higher Education Student Assistance Act. Provides that a resident of the State who is not lawfully present in the United States is not eligible, on the basis of residence within the State, for any postsecondary educational benefit unless a citizen or national of the United States is eligible for such a benefit without regard to whether the citizen or national is such a resident. Provides that any benefit conferred to a nonresident of the State who is lawfully present in the United States may not be lesser in amount, duration, or scope than the benefit conferred to a State resident who is unlawfully present in the United States."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Regan Deering",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Norine K. Hammond",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Tony M. McCombie",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Ryan Spain",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Wayne A. Rosenthal",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jackie Haas",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Amy Elik",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Michael J. Coffey, Jr.",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Dennis Tipsword",
+      "date": "2025-09-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Martin McLaughlin",
+      "date": "2025-09-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Dan Swanson",
+      "date": "2025-09-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jennifer Sanalitro",
+      "date": "2025-09-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Amy L. Grant",
+      "date": "2025-09-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kyle Moore",
+      "date": "2025-09-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Christopher \"C.D.\" Davidsmeyer",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Joe C. Sosnowski",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jason R. Bunting",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kevin Schmidt",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Patrick Windhorst",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Tom Weber",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Dave Severin",
+      "date": "2025-09-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Charles Meier",
+      "date": "2025-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. John M. Cabello",
+      "date": "2025-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Regan Deering",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norine K. Hammond",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Norine K. Hammond\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony M. McCombie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tony M. McCombie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Spain",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ryan Spain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wayne A. Rosenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wayne A. Rosenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackie Haas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jackie Haas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Elik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Amy Elik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael J. Coffey, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael J. Coffey, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dennis Tipsword",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dennis Tipsword\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin McLaughlin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Martin McLaughlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Swanson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Swanson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Sanalitro",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jennifer Sanalitro\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy L. Grant",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Amy L. Grant\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kyle Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher \"C.D.\" Davidsmeyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Christopher \\\"C.D.\\\" Davidsmeyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe C. Sosnowski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joe C. Sosnowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason R. Bunting",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jason R. Bunting\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Windhorst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Patrick Windhorst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tom Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave Severin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Severin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charles Meier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Charles Meier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John M. Cabello",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"John M. Cabello\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4097.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205337&DocName=10400HB4097&DocNum=4097&DocTypeID=HB&LegID=164050&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4097&GAID=18&DocTypeID=HB&LegId=164050&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:20:02Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4160",
+  "title": "AUTO INS-RIGHT TO APPRAISAL",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Insurance Code. Provides that every automobile insurance policy issued, renewed, or delivered in Illinois that includes first-party coverage for physical damage shall contain a provision granting either the insured or the insurer the right to invoke appraisal in the event of a dispute over (i) the actual cash value or amount of a loss, including repairable or total loss amounts; or (ii) the value of a settlement offer made to a third-party claimant. Sets forth provisions concerning the selection of appraisers; appointment of an umpire in the event of a disagreement between appraisers; issuance of the award following the appraisal; the binding effect of an agreement between appraisers or one appraiser and the umpire; cost allocation and consumer protections; the right of appraisal for third-party claimants; and enforcement and penalties. Creates the Automotive Appraisal Standards Advisory Board to provide guidance on rulemaking, enforcement priorities, and best practices. Sets forth membership provisions and provides that the Board shall meet no less than quarterly and may issue nonbinding recommendations to the Department of Insurance regarding updates to rules and emerging trends impacting fair claim resolution. Requires the Department to publish meeting summaries and any formal recommendations on its public website. Provides that the Department may adopt rules necessary to implement and enforce provisions concerning the right to appraisal. Effective 90 days after becoming law."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Tracy Katz Muhl",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tracy Katz Muhl",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tracy Katz Muhl\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4160.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205674&DocName=10400HB4160&DocNum=4160&DocTypeID=HB&LegID=164381&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4160&GAID=18&DocTypeID=HB&LegId=164381&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:20:02Z"
+  }
+}

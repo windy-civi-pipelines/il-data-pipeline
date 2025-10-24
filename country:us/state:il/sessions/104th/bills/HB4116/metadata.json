@@ -1,0 +1,118 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4116",
+  "title": "UTILITIES-VARIOUS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Municipal and Cooperative Electric Utility Transparent Planning Act. Requires certain electric cooperatives, municipal power agencies, and municipalities and distribution electric cooperatives to initiate an integrated resource planning process. Sets forth provisions concerning the integrated resource plan; stakeholder meetings; and a prequalified consulting firm list. Makes conforming changes in the Open Meetings Act and the General Not For Profit Corporation Act of 1986. Creates the Utility Data Access Act. Requires the Illinois Commerce Commission to adopt certain rules. Amends the Illinois Finance Authority Act. Adds provisions concerning the Thermal Energy Network Revolving Loan Program. Amends the Illinois Power Agency Act. Makes changes in provisions concerning the powers of the Illinois Power Agency; the Illinois Power Agency Renewable Energy Resources Fund; the Illinois Solar for All Program; the Planning and Procurement Bureau; and the Agency's annual reports. Amends the Illinois Procurement Code. Makes changes in provisions concerning prequalification. Amends the Property Tax Code. Adds a Division concerning commercial energy storage systems. Amends the Counties Code and the Illinois Municipal Code to add a Division concerning the Solar Bill of Rights. Amends the Public Utilities Act. Makes changes in provisions concerning the duties of public utilities; energy efficiency and demand-response measures; certificates of public convenience and necessity; the renewable energy access plan; rate case filing; net electricity metering; distributed generation rebates; the recovery of costs associated with delivery; procurement; alternative retail electric suppliers; and customer self-generation of electricity. Adds provisions concerning time-of-use pricing; the Thermal Energy Network Pilot Program; new large load energy and water reporting requirements; the Energy Reliability Corporation of Illinois; investigation into colocation and rate design; integrated resource plan development, review, and approval; the Interconnection Working Group; and the Interconnection Monitor. Amends the Electric Transmission Systems and Construction Standards Act. Adds requirements for construction contractors. Amends the Environmental Protection Act. Makes changes in provisions concerning greenhouse gases and permit issuance. Makes other changes. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Jay Hoffman",
+      "date": "2025-09-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kevin John Olickal",
+      "date": "2025-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jay Hoffman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jay Hoffman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin John Olickal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin John Olickal\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4116.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205401&DocName=10400HB4116&DocNum=4116&DocTypeID=HB&LegID=164114&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4116&GAID=18&DocTypeID=HB&LegId=164114&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:54Z"
+  }
+}

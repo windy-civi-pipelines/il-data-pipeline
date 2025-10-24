@@ -1,0 +1,190 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4124",
+  "title": "UNCAP AFFORDABLE POWER ACT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Specifies that the amendatory Act may be referred to as the Uncap Affordable Power Act. Amends the Illinois Power Agency Act, the Public Utilities Act, and the Environmental Protection Act. Provides, in each of those Acts, that it is the policy of the State not to regulate carbon dioxide emissions that arise from the combustion of fossil fuels for the purpose of generating electrical power. Provides that, beginning on the effective date of the amendatory Act, the Illinois Power Agency, the Illinois Commerce Commission, and the Illinois Environmental Protection Agency shall not regulate carbon dioxide emissions that arise from the combustion of fossil fuels for the purpose of generating electrical power. Removes carbon dioxide from the list of regulated greenhouse gases in the Environmental Protection Act. Repeals from the Environmental Protection Act a provision that provides for the regulation of greenhouse gas emissions from electric generating units and large greenhouse gas-emitting units. Makes other conforming changes. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Brad Halbrook",
+      "date": "2025-09-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Travis Weaver",
+      "date": "2025-09-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Adam M. Niemerg",
+      "date": "2025-09-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jason R. Bunting",
+      "date": "2025-09-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jed Davis",
+      "date": "2025-09-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. David Friess",
+      "date": "2025-09-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brad Halbrook",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brad Halbrook\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Travis Weaver",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Travis Weaver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam M. Niemerg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Adam M. Niemerg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason R. Bunting",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jason R. Bunting\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jed Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jed Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Friess",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"David Friess\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4124.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205426&DocName=10400HB4124&DocNum=4124&DocTypeID=HB&LegID=164139&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4124&GAID=18&DocTypeID=HB&LegId=164139&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:50Z"
+  }
+}

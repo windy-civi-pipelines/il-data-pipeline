@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2682",
+  "title": "THERAPIST ABUSE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Sexual Exploitation in Psychotherapy, Professional Health Services, and Professional Mental Health Services Act. Changes the long title of the Act. Changes the short title of the Act to the Therapist Abuse Prevention and Accountability Act. Provides that a cause of action against a therapist or unlicensed health professional for abuse exists for a client or former client for injury caused by the abuse by the therapist or unlicensed health professional, if the abuse occurred: (1) during the period the client was receiving therapy from the therapist or health services from the unlicensed health professional or (2) within 2 years after the period the client received therapy from the therapist or health services from the unlicensed health professional. Provides that the consent of the client or former client is not a defense to a cause of action under this provision. Provides that a person is deemed incapable of consent when he or she is a person who is in a therapeutic relationship or has been in a therapeutic relationship within the previous 2 years with the therapist. Provides that a therapist must report any observed or suspected therapist abuse to the Department of Financial and Professional Regulation and to a local law enforcement agency. Provides that failure to report the abuse is subject to the criminal penalties provided in the Criminal Code of 2012 and disciplinary action by the Department of Financial and Professional Regulation. Makes other changes. Defines terms. Amends the Criminal Code of 2012 to make conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Darby A. Hills",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Darby A. Hills",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darby A. Hills\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2682.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205299&DocName=10400SB2682&DocNum=2682&DocTypeID=SB&LegID=164012&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2682&GAID=18&DocTypeID=SB&LegId=164012&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:58Z"
+  }
+}

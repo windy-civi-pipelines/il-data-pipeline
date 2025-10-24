@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendatory Veto Motion - Accept Motion Recommends Be Adopted Rules Committee;  005-000-000",
+    "date": "2025-10-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2568"
+}

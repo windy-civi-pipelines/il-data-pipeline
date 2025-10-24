@@ -1,0 +1,120 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SR395",
+  "title": "SPOKEN WORD MONTH",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Declares September 2025 as Spoken Word Month. Encourages collaboration among school districts, community organizations, cultural institutions, and youth development agencies to implement spoken word mentorship programs and events statewide during the month of September 2025. Urges the State of Illinois to promote awareness and support for the National Spoken Word Awards and Festival held in Chicago through marketing, public outreach, and partnership with local and statewide arts agencies. Recognizes the positive social impact of spoken word as an art form, educational tool, and cultural beacon and that September 2025 will be a time to celebrate and elevate spoken word artists and organizations throughout the Land of Lincoln."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Approved for Consideration Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar Order of Secretary's Desk Resolutions October 15, 2025",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Resolution Adopted",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Willie Preston",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Willie Preston\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SR/PDF/10400SR0395.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205335&DocName=10400SR0395&DocNum=395&DocTypeID=SR&LegID=164048&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=395&GAID=18&DocTypeID=SR&LegId=164048&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:52Z"
+  }
+}

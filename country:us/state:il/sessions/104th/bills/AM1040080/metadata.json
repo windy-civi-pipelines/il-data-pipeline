@@ -1,0 +1,92 @@
+{
+  "legislative_session": "104th",
+  "identifier": "AM1040080",
+  "title": "APPOINT-SHIRLEY A. PEREZ",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "appointment"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Nominates Shirley Ann Perez as a Member of the Quality Care Board."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received by the Senate Sen. Laura M. Murphy",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    },
+    {
+      "description": "Assigned to Executive Appointments",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    },
+    {
+      "description": "Recommends Do Consent Executive Appointments;  006-000-000",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar Order of Executive Appointments May 20, 2025",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Laura M. Murphy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura M. Murphy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1040080&GAID=18&DocTypeID=AM&LegId=163070&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:56Z"
+  }
+}

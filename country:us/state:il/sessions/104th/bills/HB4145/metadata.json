@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4145",
+  "title": "GRAD READINESS & DEVELOPMENT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Graduate Readiness and Development Act. Requires the State Board of Education to adopt rules and guidelines for an exit orientation program for grade 11 and 12 students to prepare the students to enter the workforce, obtain marketable skills, or enroll in higher education or military service. Requires the school board of each school district operating a high school to annually host an exit orientation program that complies with the rules and guidelines adopted by the State Board of Education under the Act. Provides that the school board shall permit representatives of labor organizations, military branches, workforce training providers, vocational training providers, local chambers of commerce, banks, and private businesses to present information on jobs, training, apprenticeships, internships, jobs requiring certification, and related topics to students during a high school's exit orientation program. Requires each Illinois workNet Center to ensure that the exit orientation program of each high school in its local area is aligned with the needs and opportunities of the local labor market and to provide the school board of the school district that operates the high school with information on local labor market needs and assist with coordinating participation in the program by local chambers of commerce, private businesses, and others."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Rick Ryan",
+      "date": "2025-10-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rick Ryan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rick Ryan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4145.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205513&DocName=10400HB4145&DocNum=4145&DocTypeID=HB&LegID=164225&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4145&GAID=18&DocTypeID=HB&LegId=164225&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:53Z"
+  }
+}

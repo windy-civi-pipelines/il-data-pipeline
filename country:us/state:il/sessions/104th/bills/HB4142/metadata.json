@@ -1,0 +1,118 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4142",
+  "title": "CRIM CD-IMPEDE PEACE OFFICER",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Criminal Code of 2012. Provides that a peace officer who reasonably believes that a person's presence within 14 feet of the peace officer will interfere with the performance of the peace officer's legal duties may warn the person not to approach or to remain within 14 feet of the peace officer. Provides that it is unlawful for a person, after receiving a warning not to approach from a peace officer who is engaged in the lawful performance of a legal duty, to knowingly or intentionally violate the warning and approach or remain within 14 feet of the peace officer with the intent to: (1) interrupt, disrupt, hinder, impede, or interfere with the peace officer's ability to perform the peace officer's duty; (2) threaten the peace officer with physical harm; or (3) harass the peace officer by interfering with the peace officer performing the peace officer's duty. Provides that a violation is a Class A misdemeanor. Defines \"harass\"."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Jeff Keicher",
+      "date": "2025-09-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Travis Weaver",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeff Keicher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jeff Keicher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Travis Weaver",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Travis Weaver\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4142.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205484&DocName=10400HB4142&DocNum=4142&DocTypeID=HB&LegID=164196&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4142&GAID=18&DocTypeID=HB&LegId=164196&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:56Z"
+  }
+}

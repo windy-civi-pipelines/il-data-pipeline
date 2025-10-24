@@ -1,0 +1,118 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4117",
+  "title": "PEN CD-FIREFIGHTERS-VARIOUS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Pension Code. In the Downstate Firefighter Article, includes in the definition of \"firefighter\", a person employed in a municipality's or fire protection district's fire service as a de facto firefighter. Defines \"de facto firefighter\". Provides that the Retirement Systems Reciprocal Act (Article 20 of the Code) is adopted and made a part of the Downstate Firefighter Article and the Chicago Firefighter Article, but only with respect to a person who, on or after the effective date of the amendatory Act, is entitled to begin receiving a retirement annuity or survivor's annuity and who elects to proceed under the Retirement Systems Reciprocal Act. In the Illinois Municipal Retirement Fund (IMRF) Article, authorizes sheriff's law enforcement employee (SLEP) status for a person who is not eligible to participate in a downstate firefighter fund and is employed on a full-time basis by a participating municipality to perform duties as a paramedic, emergency medical technician (EMT), emergency medical technician-intermediate (EMT-I), or advanced emergency medical technician (A-EMT); but only if the governing authority of that municipality has approved sheriff's law enforcement employee status for such employees by adoption of an affirmative resolution. Amends the State Mandates Act to require implementation without reimbursement. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Michael J. Kelly",
+      "date": "2025-09-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Stephanie A. Kifowit",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael J. Kelly",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael J. Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie A. Kifowit",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stephanie A. Kifowit\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4117.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205403&DocName=10400HB4117&DocNum=4117&DocTypeID=HB&LegID=164116&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4117&GAID=18&DocTypeID=HB&LegId=164116&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:57Z"
+  }
+}

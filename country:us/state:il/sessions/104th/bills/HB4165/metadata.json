@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4165",
+  "title": "CIV PRO-PROHIBIT SHARI'A LAW",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Code of Civil Procedure. Provides that each of the following is void and unenforceable if it allows the application of Shari'a or any foreign law, legal code, or system that denies the parties the fundamental liberties, rights, and privileges guaranteed under the United States Constitution or the Illinois Constitution: (1) a ruling or decision of any state court, arbitration panel, tribunal, or administrative agency that is based, in whole or in part, on Shari'a or any foreign law, legal code, or system; (2) a contract, or contractual provision if severable, that provides for the choice of Shari'a or any foreign law, legal code, or system; or (3) a contract, or contractual provision if severable, that grants jurisdiction to a foreign tribunal if a ruling, decision, or provision allows the application of Shari'a or any foreign law, legal code, or system that denies the parties the fundamental liberties, rights, and privileges guaranteed under the United States Constitution or the Illinois Constitution. Sets forth exceptions. Prohibits a court, arbitration panel, tribunal, or administrative agency from transferring any civil action if the transfer would result in the application of Shari'a or any foreign law, legal code, or system that would violate or likely violate the fundamental liberties, rights, and privileges of the parties guaranteed under the United States Constitution or the Illinois Constitution."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. John M. Cabello",
+      "date": "2025-10-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John M. Cabello",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"John M. Cabello\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4165.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205708&DocName=10400HB4165&DocNum=4165&DocTypeID=HB&LegID=164413&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4165&GAID=18&DocTypeID=HB&LegId=164413&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:54Z"
+  }
+}

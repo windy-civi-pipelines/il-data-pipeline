@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2686",
+  "title": "ENERGY PRODUCTION ZONES ACT",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Energy Production Zones Act. Defines terms. Provides that a project owner is not required to obtain a permit or any other land use or zoning approval from a local authority for the construction of an electric generation facility if: (1) the Illinois Commerce Commission grants the project owner a certificate under the Public Utilities Act for the construction, the Commission declines jurisdiction over the construction under the Public Utilities Act, or the electric generation facility files notice with the Commission to not use a certificate under the Public Utilities Act; (2) the electric generating facility will be located on a premise of land that is an energy production zone; and (3) the project owner complies with other provisions of the Act. Provides that no later than 270 days before beginning construction, a project owner shall provide notice of the construction to the local authority with planning authority for the premise of land on which the construction will occur. Sets forth requirements for the content of the notice. Provides that, no later than 60 days after a project owner's provision of notice, the project owner shall hold a public hearing in the unit of local government in which the electric generation facility will be located, during which the project owner shall provide information to the public and receive public comment regarding the electric generation facility and the construction of the electric generation facility. Makes other changes. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Sue Rezin",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:51Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:51Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sue Rezin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sue Rezin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2686.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205325&DocName=10400SB2686&DocNum=2686&DocTypeID=SB&LegID=164038&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2686&GAID=18&DocTypeID=SB&LegId=164038&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:51Z"
+  }
+}

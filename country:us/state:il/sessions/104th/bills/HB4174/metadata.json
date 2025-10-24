@@ -1,0 +1,78 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4174",
+  "title": "MUSEUM CONTENT ACT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Prohibition on State Interference in Museum Content Act. Sets forth the purpose of the Act. Defines \"museum\" as an institution or entity located in the State that: (1) is operated by the State, a local governmental unit, a non-profit corporation, a trust, an association, or an educational institution that receives State funds; (2) is operated primarily for educational, scientific, historic preservation, cultural, or aesthetic purposes; and (3) owns, borrows, cares for, exhibits, studies, archives, or catalogues property. Provides that \"museum\" includes, but is not limited to, any one or more of the following institutions or entities that receive State funds: historical societies; historic sites; landmarks; parks; archives; monuments; botanical gardens; arboreta; zoos; nature centers; planetaria; aquaria; libraries; technology centers; and art, history, science, and natural history museums. Provides that a State or local governmental unit shall not interfere in the creation or content of (i) exhibits and programming in museums or (ii) events in museums that are related to race, gender, or historical events. Provides that a museum shall base its exhibits and programming on credible scholarship and inclusive narratives. Provides that a museum shall prioritize partnerships between the museum and historians, educators, and cultural leaders regarding exhibits in the museum to ensure that the exhibits are balanced and fact-based. Effective January 1, 2027."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Kimberly Du Buclet",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kimberly Du Buclet",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kimberly Du Buclet\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4174.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205748&DocName=10400HB4174&DocNum=4174&DocTypeID=HB&LegID=164451&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4174&GAID=18&DocTypeID=HB&LegId=164451&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:55Z"
+  }
+}

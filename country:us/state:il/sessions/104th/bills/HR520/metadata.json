@@ -1,0 +1,96 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HR520",
+  "title": "END GOVT. SHUTDOWN",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Affirms that no one wins when the federal government shuts down. Urges Congress to maintain continuous federal operations through timely appropriations or continuing resolutions, to reject shutdowns as a negotiating tactic, and to provide predictable funding that protects families, workers, and the broader economy. Reaffirms a bipartisan commitment to stability and problem-solving and to stand ready to work with Illinois's Congressional Delegation, Democrats and Republicans alike, to keep government functioning and focused on the people we serve."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Kam Buckner",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Ryan Spain",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kam Buckner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kam Buckner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Spain",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ryan Spain\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HR/PDF/10400HR0520.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205752&DocName=10400HR0520&DocNum=520&DocTypeID=HR&LegID=164454&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=520&GAID=18&DocTypeID=HR&LegId=164454&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:53Z"
+  }
+}

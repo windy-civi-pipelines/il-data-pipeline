@@ -1,0 +1,136 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4144",
+  "title": "IEMA-OHS-MABAS-ILEAS FUNDING",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Emergency Management Agency Act. Provides that the Illinois Emergency Management Agency and Office of Homeland Security (IEMA-OHS) shall, in consultation with the Mutual Aid Box Alarm System (MABAS) and the Illinois Law Enforcement Alarm System (ILEAS), annually determine what funding is necessary for MABAS and ILEAS to sufficiently alleviate difficulties that emergency responders face in coordinating and providing personnel and equipment from participating agencies and units of local government when responding to all-hazard emergencies in this State and establish a formula for the distribution of that funding. Provides for a continuing appropriation of that funding, with reductions in the case of federal funding. Changes a definition. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Mary Beth Canty",
+      "date": "2025-10-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Laura Faver Dias",
+      "date": "2025-10-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Lindsey LaPointe",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:20:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mary Beth Canty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mary Beth Canty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Faver Dias",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Laura Faver Dias\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lindsey LaPointe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lindsey LaPointe\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4144.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205503&DocName=10400HB4144&DocNum=4144&DocTypeID=HB&LegID=164215&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4144&GAID=18&DocTypeID=HB&LegId=164215&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:20:00Z"
+  }
+}

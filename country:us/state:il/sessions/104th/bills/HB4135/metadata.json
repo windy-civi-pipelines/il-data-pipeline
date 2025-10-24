@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4135",
+  "title": "CD CORR-RECIDIVISM REPORT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Provides that the Act may be referred to as the Illinois Correctional Data and Transparency Act. Amends the Unified Code of Corrections. Provides that beginning March 1, 2026 and every March 1 thereafter, the Department of Corrections shall submit to the General Assembly a recidivism report which the Department shall post on its website and make publicly available. Establishes the information contained in the report. Provides that the release rates shall be published on a public dashboard. Provides that within 60 days after the effective date of the amendatory Act, the Department of Corrections must file and post a recidivism IT remediation plan, consisting of timelines, milestones, and responsible staff. Provides that until the first new report is posted, the Department must file monthly status updates with the House Appropriations-Public Safety Committee and the Senate Appropriations-Public Safety and Infrastructure Committee. Provides that the Department of Corrections shall enter into standing memoranda of understanding, which shall be updated at least annually, providing periodic feeds needed to compute recidivism, with privacy protections, between the Department and: (1) the Administrative Office of the Illinois Courts concerning court dispositions; (2) the Illinois State Police concerning arrest and identifier data submitted to the Illinois State Police under the Criminal Identification Act; and (3) county sheriffs and jail administrators concerning booking information and returns of persons previously committed to county jails. Provides that the Department of Corrections shall publish aggregate and de-identified data with small-cell suppression. Provides that unit-record identifiable data shall not be disclosed to the public. Provides that research access to the data shall be only available by approved agreements with the Department of Corrections. Provides that if the annual report is filed more than 60 days after the March 1 due date, the Director of Corrections or his or her designee must appear before designated committees of the General Assembly with a remediation plan. Subject to appropriation, the Auditor General may conduct a performance audit of data processes. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Kam Buckner",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kam Buckner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kam Buckner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4135.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205462&DocName=10400HB4135&DocNum=4135&DocTypeID=HB&LegID=164174&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4135&GAID=18&DocTypeID=HB&LegId=164174&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:57Z"
+  }
+}

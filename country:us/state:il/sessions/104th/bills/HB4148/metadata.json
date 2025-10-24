@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4148",
+  "title": "EDUCATION CHOICE FOR CHILDREN",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the School Code. Provides that the General Assembly voluntarily elects the State to: (1) participate in the federal tax credit established under the federal One Big Beautiful Bill Act for individuals who make qualified contributions to scholarship granting organizations; and (2) identify scholarship granting organizations located in this State. Authorizes and empowers the State Board of Education to certify and submit a list of qualifying scholarship granting organizations to the Secretary of the Treasury of the United States in accordance with the federal One Big Beautiful Bill Act and its associated regulations. Provides that by January 1, 2027 and by every January 1 thereafter, the State Board shall submit to the Secretary of the Treasury of the United States and publish on the State Board's Internet website a list of scholarship granting organizations that meet the requirements of the federal One Big Beautiful Bill Act and are located in this State. Provides that the State Board and the Department of Revenue may adopt only those rules necessary to implement the provisions in a manner consistent with federal law and may not impose additional criteria, restrictions, or limitations beyond those required under federal statute or regulation. Requires the State Board and the Department of Revenue to publish annual reports on the use and impact of the list of scholarship granting organizations."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Jed Davis",
+      "date": "2025-10-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jed Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jed Davis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4148.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205522&DocName=10400HB4148&DocNum=4148&DocTypeID=HB&LegID=164234&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4148&GAID=18&DocTypeID=HB&LegId=164234&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:52Z"
+  }
+}

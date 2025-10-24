@@ -1,0 +1,138 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2712",
+  "title": "IMMIGRATION ENFORCEMENT ACT",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Immigration Enforcement Act. Requires every school district to review its comprehensive school safety plan, and amend, if necessary, its comprehensive school safety plan to include procedures specifically designed to notify parents and guardians of pupils, teachers, administrators, and school personnel when the school confirms the presence of immigration enforcement on school premises. Requires postsecondary educational entities, and each campus of those postsecondary educational entities, to make good faith efforts to notify all students, faculty, and staff who work on campus when the presence of immigration enforcement is confirmed on campus. Provides that health care provider entity personnel shall immediately notify health care provider entity management, administration, or legal counsel of any request for access to a health care provider entity site or patient for immigration enforcement. Establishes the Deportation Defense Grant Program for the hiring of a public defender to assist those who will act as an attorney to a noncitizen in an immigration case or for a nonprofit who assists in the immigration legal casework. Makes a conforming change the Counties Code. Amends the Illinois Vehicle Code. Provides that ALPR information may be shared by a law enforcement agency only for purposes of locating vehicles or persons if there is probable cause of being involved in the commission of a criminal offense. Provides that before a request for ALPR information may be processed, a law enforcement agency must obtain and review a police report to ensure compliance, which, if granted and shared, the relevant information may only be accessed or retained for a maximum of 15 days before a new request is required. Provides that an ALPR system that gives out information in violation of the provisions shall be liable for civil penalties of up to $25,000 per violation. Provides that the commission of a deceptive practice by a law enforcement official in violation of the provisions is a Class B misdemeanor. Provides that each ALPR system shall produce an biannual audit report submitted to the Secretary of State showing all searches for a police department conducted by customers outside of the police department. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Laura Fine",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:51Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:51Z"
+      }
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:51Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. David Koehler",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:51Z"
+      }
+    },
+    {
+      "description": "Added as Chief Co-Sponsor Sen. Javier L. Cervantes",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:51Z"
+      }
+    },
+    {
+      "description": "Sponsor Removed Sen. Javier L. Cervantes",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T05:19:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Laura Fine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura Fine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Koehler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David Koehler\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/SB/PDF/10400SB2712.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205543&DocName=10400SB2712&DocNum=2712&DocTypeID=SB&LegID=164255&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2712&GAID=18&DocTypeID=SB&LegId=164255&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:19:51Z"
+  }
+}
